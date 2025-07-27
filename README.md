@@ -104,8 +104,7 @@ The LangChain framework revolves around the following building blocks:
 
 ## 6. System Architecture
 
-![](./images/arch1.png)
-![](./images/arch2.png)
+It has been added under Pull Request
 
 ## 7. Prerequisites
 
